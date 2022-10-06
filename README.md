@@ -1,3 +1,14 @@
+# Demo
+
+
+
+
+
+https://user-images.githubusercontent.com/69359301/194411068-bfec64ca-8104-486f-a451-d453162da87c.mp4
+
+
+
+
 # About the project
 
 the idea of this project is to type a product name then automatically you get the price of the first item in the results page of  from amazon website 

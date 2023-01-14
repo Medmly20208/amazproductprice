@@ -11,12 +11,15 @@ https://user-images.githubusercontent.com/69359301/194411068-bfec64ca-8104-486f-
 
 # About the project
 
-the idea of this project is to type a product name then automatically you get the price of the first item in the results page of  from amazon website 
+the idea of this project is to type a product name then automatically you get the price of the first item in the results page of amazon  
 
 
 # Built with
 
+python
 Selenium:is a framework that provide a set of functionnalities in order to get data from the web so I use it in my project
+
+
 
 # Prerequisites
 
